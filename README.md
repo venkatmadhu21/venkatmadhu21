@@ -1,0 +1,1 @@
+Hi, I’m Venkat Madhu Mohan, a 2nd-year Computer Science student at KMCE. I’m passionate about building a strong foundation in C++ and Data Structures & Algorithms, while also exploring modern web development with the MERN stack. My goal is to contribute to impactful projects and grow as a developer through open-source contributions and debugging challenges.
