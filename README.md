@@ -30,7 +30,7 @@ I love turning ideas into scalable web apps and solving algorithmic problems wit
 > Python + SQLite + HTML + XAMPP + CGI Scripting  
 > Reduced processing time by 50%, improved accuracy
 
-### 🏢 [Residential Services Web App]\
+### 🏢 [Residential Services Web App]
 > Static portal used by 200+ residents to raise service requests and stay updated  
 > Fully mobile-responsive with Bootstrap & clean JS logic
 
