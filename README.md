@@ -50,7 +50,7 @@ VS Code, Postman, Power BI
 
 ## Contact
 
-Email: venkatmadhu232@gmail.com  
+Email: venkatmadhumohann@gmail.com  
 LinkedIn: https://www.linkedin.com/in/venkatmadhu  
 Portfolio: https://venkat-madhu.netlify.app/
 
