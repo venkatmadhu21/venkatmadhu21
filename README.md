@@ -12,9 +12,9 @@ I enjoy solving algorithmic problems and writing clean, efficient C++ code.
 
 - Experienced in MERN stack (MongoDB, Express, React, Node.js)
 - Worked with AI models using PyTorch, YOLO, and Vision Transformers (ViT)
-- Solved 250+ DSA problems across LeetCode, Codeforces, CodeChef, and HackerRank
+- Solved 500+ DSA problems across LeetCode, Codeforces, CodeChef, and HackerRank
 - Branch Lead at college Tech Club, conducted coding sessions and events
-- Currently exploring system design and open-source contributions
+- Currently exploring system design and AI-ML
 
 ---
 
